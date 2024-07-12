@@ -12,7 +12,7 @@ The project provides comprehensive insights to address the strategic challenges 
 
 ## Dataset
 
-The Maven Fuzzy Factory dataset spans from March 2012 to March 2015 and includes six tables essential for ecommerce operations. These tables encompass web analytics data such as website sessions, pageviews, and sales information including products, orders, order items, and order item refunds. For a visual representation, please refer to Figure 1, which illustrates the dataset's structure in a SQL schema. The dataset can be accessed [here].
+The Maven Fuzzy Factory dataset spans from March 2012 to March 2015 and includes six tables essential for ecommerce operations. These tables encompass web analytics data such as website sessions, pageviews, and sales information including products, orders, order items, and order item refunds. For a visual representation, please refer to Figure 1, which illustrates the dataset's structure in a SQL schema. The dataset can be accessed [here](https://www.kaggle.com/datasets/rubenman/maven-fuzzy-factory-dataset). 
 
 ![Maven_MySQL_Schema](https://github.com/user-attachments/assets/0e565604-4cfa-4696-b078-3de174031fa4)
 
