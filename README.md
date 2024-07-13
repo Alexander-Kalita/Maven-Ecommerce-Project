@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project aims to analyze the website traffic and performance data of Maven Fuzzy Factory, a US-based e-commerce startup. The goal is to identify sources of profitable growth through a detailed examination of various business aspects. The analysis focuses on the conversion funnel, which was analyzed over three years and visualized in an interactive dashboard, as it significantly impacts other key visualizations like gross profit margin by month, average order value by product category and revenue per session by channel group and user type. The dashboard is designed primarily for the top management team but can also benefit other stakeholders by highlighting crucial business insights.
+This project aims to analyze the website traffic and performance data of Maven Fuzzy Factory, a US-based e-commerce startup. The goal is to identify sources of profitable growth through a detailed examination of various business aspects. The analysis focuses on the conversion funnel, which is analyzed over three years and visualized in an interactive dashboard, as it significantly impacts other key visualizations like gross profit margin by month, average order value by product category and revenue per session by channel group and user type. The dashboard is designed primarily for the top management team but can also benefit other stakeholders by highlighting crucial business insights.
 
 ## Problem
 
