@@ -18,7 +18,7 @@ The Maven Fuzzy Factory dataset spans from March 2012 to March 2015 and includes
 
 ## Architecture
 
-The project primarily utilizes Python with libraries such as numpy, pandas, and matplotlib. Data stored in MySQL database was accessed and integrated into Python using SQL magic commands for data cleaning, transformation, and analysis. Subsequently, the MySQL database was connected to Power BI Desktop to develop an interactive dashboard for analyzing the conversion funnel across multiple years. The entire project is documented as a report within JupyterLab and uploaded to GitHub for accessibility.
+The project primarily utilizes Python with libraries such as numpy, pandas, and matplotlib. Data stored in MySQL database were accessed and integrated into Python using SQL magic commands for data cleaning, transformation, and analysis. Subsequently, the MySQL database was connected to Power BI Desktop to develop an interactive dashboard for analyzing the conversion funnel across multiple years. The entire project is documented as a report within JupyterLab and uploaded to GitHub for accessibility.
 
 ## GIF
 
