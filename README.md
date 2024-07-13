@@ -22,7 +22,7 @@ The project primarily utilizes Python with libraries such as numpy, pandas, and 
 
 ## GIF
 
-The interactive Power BI dashboard is showcased as a demo GIF since the full dashboard couldn't be uploaded to GitHub due to size constraints. The GIF primarily demonstrates the interactive filtering functionality, highlighting how conversion funnel dynamics can be visualized and compared across different years.
+The interactive Power BI dashboard is showcased as a demo GIF since the full dashboard cannnot be uploaded to GitHub due to size constraints. The GIF primarily demonstrates the interactive filtering functionality, highlighting how conversion funnel dynamics can be visualized and compared across different years.
 
 ![Conversion_Funnel](https://github.com/user-attachments/assets/244c8946-d89c-43e3-9557-ab31bdd826bf)
 
